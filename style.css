@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background: url("imagesBg.jpg");
+}
+input{
+    border-style: none;
+    color: white;
+    background-color: transparent;
+    border-bottom: solid;
+    border-bottom-color: white;
+    font-size: x-large;
+
+}
+::placeholder { 
+    color:white;
+    opacity: 1; 
+  }
+  button{
+    width: 100px;
+    font-size: large;
+  }
+  .d1{
+    color:white;
+    font-size: larger;
+  }
